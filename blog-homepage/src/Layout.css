@@ -1,0 +1,15 @@
+.display-flex {
+  display: flex;
+}
+.flex-direction-row {
+  flex-direction: row;
+}
+.flex-direction-column {
+  flex-direction: column;
+}
+.flex-grow-2 {
+  flex-grow: 2;
+}
+.align-items-center {
+  align-items: center;
+}

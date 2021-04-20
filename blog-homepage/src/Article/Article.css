@@ -1,0 +1,12 @@
+.article {
+  height: 500px;
+  border: 2px solid black;
+}
+
+.article-media-container-fixed-height {
+  max-height: 150px;
+}
+
+.article-media-container-fixed-width {
+  max-width: 150px;
+}
